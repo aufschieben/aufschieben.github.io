@@ -16,8 +16,10 @@ Mehr Informationen auf der Seite der [IPU Berlin](http://www.ipu-berlin.de/hochs
 **Tom Uhlig**  
 M.Sc. Psychologie, Assoziierter Mitarbeiter  
 Mehr Informationen der Seite der [Forschungswerkstatt Tiefenhermeneutik](http://www.tiefenhermeneutik.org/mitglieder/uhlig/)
-
-### Impressum
+  
+  
+  
+## Impressum
 Verantwortlich für den Inhalt
 
 Christine Kirchhoff und Carolin Schnackenberg
