@@ -1,6 +1,6 @@
 ---
 layout: page
-title:   
+title: Personen 
 ---
 ### **Projektleiterin**  
 **Christine Kirchhoff**  
