@@ -14,7 +14,7 @@ M.Sc. Psychologie, Wissenschaftliche Mitarbeiterin
 Mehr Informationen auf der Seite der [IPU Berlin](http://www.ipu-berlin.de/hochschule/wissenschaftler/profil/schnackenberg-carolin.html)
 
 **Tom Uhlig**  
-M.Sc. Psychologie, Assoziierter Mitarbeiter
+M.Sc. Psychologie, Assoziierter Mitarbeiter  
 Mehr Informationen der Seite der [Forschungswerkstatt Tiefenhermeneutik](http://www.tiefenhermeneutik.org/mitglieder/uhlig/)
 
 ### Impressum
