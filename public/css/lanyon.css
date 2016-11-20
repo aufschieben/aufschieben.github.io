@@ -334,14 +334,14 @@ a.sidebar-nav-item:focus {
 
 
 .page,
-.post a{
+.post p a{
   font-style: italic;
   color: #313131;
   text-decoration: none;
 }
 
 .page,
-.post a:hover{
+.post p a:hover{
   font-style: italic;
   color: #e5722a;
   text-decoration: none;
