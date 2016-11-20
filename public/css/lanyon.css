@@ -193,6 +193,11 @@ a.sidebar-nav-item:focus {
   color: #5e6161;
 }
 
+.sidebar-description{
+ color: #5e6161; 
+}
+
+
 @media (min-width: 48rem) {
   .sidebar-item {
     padding: 1.5rem;
