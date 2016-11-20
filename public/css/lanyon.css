@@ -312,7 +312,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #dfe0df;
+  color: #000000;
   text-decoration: none;
 }
 .page-title,
@@ -322,7 +322,7 @@ a.sidebar-nav-item:focus {
 
 .page-title,
 .post-title a:hover {
- color: #dfe0df;
+ color: #000000;
 
 }
 
