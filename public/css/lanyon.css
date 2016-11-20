@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #dfe0df;
+  background-color: #fff;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #5e6161;
+  color: #fff;
 }
 .sidebar-item {
   padding: 1rem;
@@ -189,13 +189,13 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   padding: .5rem 1rem;
   border-top: 1px solid rgba(255,255,255,.1);
-  color: #5e6161;
+  color: #fff;
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,.1);
+  background-color: #fff/*rgba(255,255,255,.1)*/;
   border-color: transparent;
   color: #5e6161;
 }
