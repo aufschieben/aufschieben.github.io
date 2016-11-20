@@ -214,7 +214,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #5f6062;
+  color: #e9eaeb;
   background-color: #fff;
   border-radius: 4px;
   cursor: pointer;
@@ -236,7 +236,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #5f6062;
+  background-color: #e9eaeb;
 }
 
 @media (min-width: 30.1rem) {
