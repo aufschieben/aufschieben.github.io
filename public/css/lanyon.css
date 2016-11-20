@@ -323,9 +323,19 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title a:hover {
  color: #313131;
-
 }
 
+.post a{
+  font-style: italic;
+  color: #313131;
+  text-decoration: none;
+}
+
+.post a:hover{
+  font-style: italic;
+  color: #e5722a;
+  text-decoration: none;
+}
 
 /* Meta data line below post title */
 .post-date {
