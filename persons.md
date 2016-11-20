@@ -2,8 +2,15 @@
 layout: page
 title: Personen
 ---
+## Projektleiterin
+**Christine Kirchhoff**  
+Jun. Prof. Dr. phil., Psychoanalytische Kulturwissenschaften
 
-* Christine 
+Mehr Informationen auf meiner Homepage  an der [IPU Berlin](http://www.ipu-berlin.de/hochschule/wissenschaftler/profil/kirchhoff-christine.html)
+
+
+
+## Mitarbeiter_Innen
 * Carolin
 * Tom
 
