@@ -526,3 +526,15 @@ a.pagination-item:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* IPU theme */
+.theme-base-ipu .sidebar,
+.theme-base-ipu .sidebar-toggle:active,
+.theme-base-ipu #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #ee7c28;
+}
+.theme-base-ipu .container a,
+.theme-base-ipu .sidebar-toggle,
+.theme-base-ipu .related-posts li a:hover {
+  color: #ee7c28;
+}
