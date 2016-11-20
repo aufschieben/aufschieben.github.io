@@ -304,7 +304,7 @@ a.sidebar-nav-item:focus {
 /* Blog post or page title */
 .page-title,
 .post-title,
-.container,
+.container a,
 .post-title a {
   color: #5f6062;
   text-decoration: none;
@@ -315,7 +315,7 @@ a.sidebar-nav-item:focus {
 }
 
 .page-title,
-.container,
+.container a,
 .post-title a:hover {
  color: #ee7c28;
 
