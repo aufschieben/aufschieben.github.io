@@ -332,6 +332,7 @@ a.sidebar-nav-item:focus {
  color: #e5722a;
 }
 
+/*
 .page,
 .post a{
   font-style: italic;
@@ -345,6 +346,7 @@ a.sidebar-nav-item:focus {
   color: #e5722a;
   text-decoration: none;
 }
+*/
 
 /* Meta data line below post title */
 .post-date {
