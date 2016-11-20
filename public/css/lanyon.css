@@ -315,7 +315,8 @@ a.sidebar-nav-item:focus {
 
 .page-title,
 .post-title a:hover {
- color: #ee7c28; 
+ color: #ee7c28;
+ text-decoration: none;
 }
 
 
