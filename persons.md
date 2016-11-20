@@ -2,7 +2,7 @@
 layout: page
 title: Personen
 ---
-## Projektleiterin
+### Projektleiterin
 **Christine Kirchhoff**  
 Jun. Prof. Dr. phil., Psychoanalytische Kulturwissenschaften
 
