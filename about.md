@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Über
+title: Über diesen Blog
 ---
-
-# Über diesen Blog
 
 Dies ist ein Blog rund um das Forschungsprojekt [„Prokrastination. Psychoanalyse und gesellschaftlicher Kontext.“](http://www.ipu-berlin.de/hochschule/forschung/projekt/prokrastination-psychoanalyse-und-gesellschaftlicher-kontext.html).
 
