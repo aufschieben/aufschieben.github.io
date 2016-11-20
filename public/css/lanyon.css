@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #e9eaeb;
+  background-color: #dfe0df;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -236,7 +236,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #e9eaeb;
+  background-color: #dfe0df;
 }
 
 @media (min-width: 30.1rem) {
@@ -305,7 +305,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #5f6062;
+  color: #dfe0df;
   text-decoration: none;
 }
 .page-title,
@@ -315,7 +315,7 @@ a.sidebar-nav-item:focus {
 
 .page-title,
 .post-title a:hover {
- color: #ee7c28;
+ color: #dfe0df;
 
 }
 
@@ -382,7 +382,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #ee7c28;
+  background-color: #dfe0df;
 }
 
 @media (min-width: 30rem) {
@@ -436,10 +436,10 @@ a.pagination-item:hover {
 .theme-base-ipu .sidebar,
 .theme-base-ipu .sidebar-toggle:active,
 .theme-base-ipu #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ee7c28;
+  background-color: #dfe0df;
 }
 .theme-base-ipu .container a,
 .theme-base-ipu .sidebar-toggle,
 .theme-base-ipu .related-posts li a:hover {
-  color: #ee7c28;
+  color: #dfe0df;
 }
