@@ -301,12 +301,12 @@ a.sidebar-nav-item:focus {
 .post {
   margin-bottom: 4em;
 }
-
 /* Blog post or page title */
 .page-title,
 .post-title,
 .post-title a {
   color: #5f6062;
+  text-decoration: none;
 }
 .page-title,
 .post-title {
@@ -316,7 +316,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title a:hover {
  color: #ee7c28;
- text-decoration: none;
+
 }
 
 
