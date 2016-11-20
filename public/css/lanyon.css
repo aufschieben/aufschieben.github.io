@@ -325,13 +325,13 @@ a.sidebar-nav-item:focus {
  color: #313131;
 }
 
-.post a{
+p a{
   font-style: italic;
   color: #313131;
   text-decoration: none;
 }
 
-.post a:hover{
+p a:hover{
   font-style: italic;
   color: #e5722a;
   text-decoration: none;
