@@ -334,7 +334,7 @@ a.sidebar-nav-item:focus {
 .post-title a:hover {
  color: #313131;
 }
-
+.page h3{text-decoration:underline;}
 
 /*
 .page,
