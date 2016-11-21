@@ -197,11 +197,11 @@ a.sidebar-nav-item:focus {
   text-decoration: none;
   background-color: #fff/*rgba(255,255,255,.1)*/;
   border-color: transparent;
-  color: #313131;
+  color: #e5722e;
 }
 
 .sidebar-description{
- color: #313131; 
+ color: #313131;
 }
 
 
