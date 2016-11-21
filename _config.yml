@@ -1,8 +1,9 @@
 excerpt_separator: ""
-pygments: "pygments"
+highlighter: null
 markdown: kramdown
 url: http://aufschieben.github.io
 title: Prokrastination.
 tagline:  Psychoanalyse und gesellschaftlicher Kontext.
 description: Ein Blog zum Forschungsprojekt "Prokrastination. Psychoanalyse und gesellschaftlicher Kontext."
 paginate: 5
+# gems: [jekyll-paginate]
