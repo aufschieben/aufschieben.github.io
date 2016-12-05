@@ -62,7 +62,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /*
  * Container
- *
  * Center the page content.
  */
 
@@ -83,7 +82,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /*
  * Masthead
- *
  * Super small header above the content for site name and short description.
  */
 
@@ -212,7 +210,7 @@ img {
 .post {
   margin-bottom: 4em;
   margin-left: 1rem;
-  position: relative;
+  /*position: relative;*/
 }
 /* Blog post or page title */
 .page-title,
