@@ -1,10 +1,8 @@
-<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
-<!-- Toggleable sidebar -->
+
+
 <div class="sidebar" id="sidebar">
-     
+
   <div class="sidebar-item">
     <p class="sidebar-description">{{ site.description }}</p>
   </div>
@@ -25,22 +23,18 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
-    <!--a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span-->
   </nav>
 
   <div class="sidebar-item">
    <a href="http://www.ipu-berlin.de">
-     <img border="0" alt="IPU-Logo" src="ipu_logo.png" width="100%">
+     <img border="0" alt="IPU-Logo" src="ipu_logo.png" width="170px">
    </a>
   </div>
-  
+
   <div class="sidebar-item">
     <a href="atom.xml"> <i class="fa fa-rss" aria-hidden="true"></i></a>
   </div>
-     
+
   <div class="sidebar-description sidebar-item">
     <p>
       &copy; {{ site.time | date: '%Y' }}. Alle Rechte vorbehalten.
