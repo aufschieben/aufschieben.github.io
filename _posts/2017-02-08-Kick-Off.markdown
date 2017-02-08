@@ -2,8 +2,6 @@
 published: true
 title: Bericht zur Kick-Off Tagung
 layout: post
-excerpt_separator: <!--more-->
-
 ---
 Am letzten Novemberwochenende 2016 verorteten Prof. Dr. Christine Kirchhoff und ihr Forschungsteam, bestehend aus Carolin Schnackenberg und Tom Uhlig, auf einem Symposion das qualitative Forschungsprojekt zum Phänomen der Prokrastination in der wissenschaftlichen Gemeinschaft und öffneten die Diskussionen außerdem für ein interessiertes Publikum. Mit den ReferentInnen wurden unterschiedliche wissenschaftliche Disziplinen nach ihrem Erkenntnisgehalt befragt; die experimentelle Psychologie zu ihren empirischen Ergebnissen, die antike Mythologie in ihrer Symbolträchtigkeit, das Theater in seinem Darstellungsgeschick, und die Psychoanalyse nach ihren theoretischen Konzepten aus der praktischen Arbeit. Die Vogelperspektive wird für die folgenden Seiten beibehalten, um ein  vielseitiges Bild von Prokrastination zu skizzieren. 
 <!--more-->
