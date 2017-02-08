@@ -7,4 +7,4 @@ tagline:  Psychoanalyse und gesellschaftlicher Kontext.
 description: Ein Blog zum Forschungsprojekt "Prokrastination. Psychoanalyse und gesellschaftlicher Kontext."
 paginate: 5
 gems: [jekyll-paginate]
-excerpt-separator: <!--more-->
+
