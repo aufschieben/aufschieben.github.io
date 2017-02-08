@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ankündigung: Arbeitstagung
+title: Ankündigung Arbeitstagung
 layout: post
 excerpt_separator: <!--more-->
 ---
