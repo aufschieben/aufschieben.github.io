@@ -1,7 +1,7 @@
 
 ---
 published: true
-title: Radiobeitrag
+title: Christine Kirchhoff zu Gast beim RBB Kulturrradio
 layout: post
 excerpt_separator: <!--more-->
 ---
