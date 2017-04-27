@@ -1,6 +1,6 @@
 ---
 published: true
-title: Christine Kirchhoff zu Gast beim RBB kulturrradio
+title: Christine Kirchhoff zu Gast beim RBB kulturradio
 layout: post
 excerpt_separator: <!--more-->
 ---
