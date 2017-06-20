@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Was ich heute kann besorgen, das verschiebe ich auf morgen!" - Vortrag zur "Langen Nacht der Wissenschaft"
+title: "Was ich heute kann besorgen, ..." - Vortrag zur "Langen Nacht der Wissenschaft"
 layout: post
 excerpt_separator: <!--more-->
 ---
