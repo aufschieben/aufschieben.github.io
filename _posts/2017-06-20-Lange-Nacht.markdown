@@ -1,9 +1,12 @@
 ---
 published: true
-title: Christine Kirchhoff zu Gast beim rbb kulturradio
+title: "Was ich heute kann besorgen, ..." - Vortrag zur "Langen Nacht der Wissenschaft"
 layout: post
 excerpt_separator: <!--more-->
 ---
 
-Das rbb kulturradio hat sich in der Sendung "kulturradio am Mittag" dem Tagesthema ["Ist Aufschieben wirklich so schlimm? Was Du heute kannst besorgen, das verschiebe ruhig auf Morgen..."](http://mediathek.rbb-online.de/radio/Kulturradio-am-Mittag/Ist-Aufschieben-wirklich-so-schlimm/kulturradio/Audio?bcastId=9839126&documentId=42311984) gewidmet. Prof. Dr. Christine Kirchhoff war zu Gast und sprach über problematisches und produktives Aufschieben und über ihr Forschungsprojekt zu "Prokrastination. Psychoanalyse und gesellschaftlicher Kontext". 
+Zur "Langen Nacht der Wissenschaft" werden Christine Kirchhoff und Carolin Schnackenberg in ihrem Vortrag
+["Was ich heute kann besorgen, das verschiebe ich auf morgen!" Zur Psychoanalyse der Prokrastination.](http://www.langenachtderwissenschaften.de/startseite.html?rs=120&goto=rs_120&history_state=3&typ=push) das Phänomen Prokrastination - also das Aufschieben von Aufgaben - vorstellen, einen kurzen Einblick in die Prokrastinationsforschung gegeben und erläutern, was aus einer psychoanalytischen Perspektive daran interessant ist. Anschließend werden erste Ergebnisse aus der qualitativen Interviewstudie zu Prokrastination am Computer vorgestellt.
+
+Beginn: 17 Uhr, International Psychoanalytic University (IPU), Stromstr. 3b, 10555 Berlin, Raum: 3b 04
 <!--more-->
